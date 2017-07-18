@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 
+#edited for codeship to start build.
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
